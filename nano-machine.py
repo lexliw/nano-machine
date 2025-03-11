@@ -380,11 +380,11 @@ for i in range(len(onlyfolders)):
     onlyfiles.sort()
     onlyfiles.remove('readme.md')
     # print(f'{onlyfolders[i]}:{onlyfiles}')
-    navegacao = f'|[ANTERIOR]({anterior})|[MENU]({menu})|[PRÓXIMO]({proximo})|\n'
-    conteudo = f'# {onlyfolders[i]}\n{navegacao} |:--:|:--:|:--:|\n'
+    navegacao = f'## [ANTERIOR]({anterior})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU]({menu})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO]({proximo})\n'
+    conteudo = f'# {onlyfolders[i]}\n{navegacao} '
 
     for file in onlyfiles:
-        conteudo += f'||![{file}]({file})||\n'
+        conteudo += f'- ![{file}]({file})\n'
     
     conteudo += f'{navegacao}'
 
