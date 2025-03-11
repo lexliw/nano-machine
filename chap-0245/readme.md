@@ -1,5 +1,5 @@
 # chap-0245
-##### [ANTERIOR](/nano-machine/chap-0244/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/nano-machine/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/nano-machine/chap-0246/readme.md)
+##### [ANTERIOR](/nano-machine/chap-0244/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/nano-machine/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/nano-machine/chap-0246/)
 ![001__001.jpg](001__001.jpg)
 
 ![001__002.jpg](001__002.jpg)
@@ -108,4 +108,4 @@
 
 ![011__004.jpg](011__004.jpg)
 
-##### [ANTERIOR](/nano-machine/chap-0244/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/nano-machine/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/nano-machine/chap-0246/readme.md)
+##### [ANTERIOR](/nano-machine/chap-0244/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/nano-machine/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/nano-machine/chap-0246/)

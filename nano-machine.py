@@ -368,13 +368,13 @@ f.close()
 
 for i in range(len(onlyfolders)):
     chapterFolder = f'./{onlyfolders[i]}/'
-    anterior = '/nano-machine/readme.md'
-    proximo = '/nano-machine/readme.md'
-    menu = '/nano-machine/readme.md'
+    anterior = '/nano-machine/'
+    proximo = '/nano-machine/'
+    menu = '/nano-machine/'
     if i - 1 >= 0: 
-        anterior = f'/nano-machine/{onlyfolders[i-1]}/readme.md'
+        anterior = f'/nano-machine/{onlyfolders[i-1]}/'
     if i + 1 <= len(onlyfolders)-1: 
-        proximo = f'/nano-machine/{onlyfolders[i+1]}/readme.md'
+        proximo = f'/nano-machine/{onlyfolders[i+1]}/'
 
     onlyfiles = [f for f in listdir(chapterFolder) if isfile(join(chapterFolder, f))]
     onlyfiles.sort()
