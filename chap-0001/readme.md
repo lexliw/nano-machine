@@ -1,5 +1,5 @@
 # chap-0001
-#####s [ANTERIOR](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0208/readme.md)
+##### [ANTERIOR](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0208/readme.md)
 ![001.jpg](001.jpg)
 
 ![002.jpg](002.jpg)
@@ -50,4 +50,4 @@
 
 ![025.jpg](025.jpg)
 
-#####s [ANTERIOR](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0208/readme.md)
+##### [ANTERIOR](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0208/readme.md)

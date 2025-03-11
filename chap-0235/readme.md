@@ -1,5 +1,5 @@
 # chap-0235
-#####s [ANTERIOR](/chap-0234_1/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0236/readme.md)
+##### [ANTERIOR](/chap-0234_1/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0236/readme.md)
 ![002.jpeg](002.jpeg)
 
 ![003.jpeg](003.jpeg)
@@ -24,4 +24,4 @@
 
 ![013.jpeg](013.jpeg)
 
-#####s [ANTERIOR](/chap-0234_1/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0236/readme.md)
+##### [ANTERIOR](/chap-0234_1/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0236/readme.md)

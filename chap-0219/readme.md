@@ -1,5 +1,5 @@
 # chap-0219
-#####s [ANTERIOR](/chap-0218/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0220/readme.md)
+##### [ANTERIOR](/chap-0218/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0220/readme.md)
 ![001.webp](001.webp)
 
 ![002.webp](002.webp)
@@ -20,4 +20,4 @@
 
 ![010.webp](010.webp)
 
-#####s [ANTERIOR](/chap-0218/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0220/readme.md)
+##### [ANTERIOR](/chap-0218/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0220/readme.md)

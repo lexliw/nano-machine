@@ -1,5 +1,5 @@
 # chap-0247
-#####s [ANTERIOR](/chap-0246/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0248/readme.md)
+##### [ANTERIOR](/chap-0246/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0248/readme.md)
 ![001__001.jpg](001__001.jpg)
 
 ![001__002.jpg](001__002.jpg)
@@ -100,4 +100,4 @@
 
 ![010.jpg](010.jpg)
 
-#####s [ANTERIOR](/chap-0246/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0248/readme.md)
+##### [ANTERIOR](/chap-0246/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0248/readme.md)

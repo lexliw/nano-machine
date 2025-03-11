@@ -1,5 +1,5 @@
 # chap-0208
-#####s [ANTERIOR](/chap-0001/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0209/readme.md)
+##### [ANTERIOR](/chap-0001/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0209/readme.md)
 ![001.jpg](001.jpg)
 
 ![002.jpg](002.jpg)
@@ -82,4 +82,4 @@
 
 ![041.jpg](041.jpg)
 
-#####s [ANTERIOR](/chap-0001/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0209/readme.md)
+##### [ANTERIOR](/chap-0001/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU](/readme.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO](/chap-0209/readme.md)
