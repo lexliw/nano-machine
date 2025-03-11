@@ -1,1 +1,13 @@
-<p style="text-align: center;"><button name="anterior" onclick="./chap-0216/readme.md">Anterior</button><button name="menu" onclick="./readme.md">Menu</button><button name="próximo" onclick="./chap-0218/readme.md">Próximo</button></p> <p style="text-align: center;"><img src="002.jpg"> <img src="003.jpg"> <img src="004.jpg"> <img src="005.jpg"> <img src="006.jpg"> <img src="007.jpg"> <img src="008.jpg"> <img src="009.jpg"> <img src="010.jpg"> <img src="readme.md"> </p> <p style="text-align: center;"><button name="anterior" onclick="./chap-0216/readme.md">Anterior</button><button name="menu" onclick="./readme.md">Menu</button><button name="próximo" onclick="./chap-0218/readme.md">Próximo</button></p>
+# chap-0217
+|[ANTERIOR](/chap-0216/readme.md)|[MENU](/readme.md)|[PRÓXIMO](/chap-0218/readme.md)|
+ |:--:|:--:|:--:|
+||![002.jpg](002.jpg)||
+||![003.jpg](003.jpg)||
+||![004.jpg](004.jpg)||
+||![005.jpg](005.jpg)||
+||![006.jpg](006.jpg)||
+||![007.jpg](007.jpg)||
+||![008.jpg](008.jpg)||
+||![009.jpg](009.jpg)||
+||![010.jpg](010.jpg)||
+|[ANTERIOR](/chap-0216/readme.md)|[MENU](/readme.md)|[PRÓXIMO](/chap-0218/readme.md)|

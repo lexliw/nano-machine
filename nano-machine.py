@@ -3,48 +3,48 @@
 # lista dos capitulos que srão baixados
 mangaList = [
     "https://mugiwarasoficial.com/manga/nano-machine/chap-249/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-248/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-247/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-246/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-245/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-244/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-243/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-242/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-241/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-240/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-239/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-238/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-237/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-236/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-235/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-234_1/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-234/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-233/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-232/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-231/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-230/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-229/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-228/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-227/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-226/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-225/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-224/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-223/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-222/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-221/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-220/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-219/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-218/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-217/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-216/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-215/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-214/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-213/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-212/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-211/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-210/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-209/",
-    "https://mugiwarasoficial.com/manga/nano-machine/chap-208/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-248/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-247/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-246/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-245/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-244/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-243/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-242/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-241/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-240/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-239/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-238/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-237/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-236/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-235/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-234_1/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-234/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-233/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-232/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-231/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-230/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-229/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-228/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-227/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-226/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-225/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-224/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-223/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-222/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-221/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-220/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-219/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-218/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-217/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-216/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-215/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-214/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-213/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-212/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-211/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-210/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-209/",
+    # "https://mugiwarasoficial.com/manga/nano-machine/chap-208/",
     # "https://mugiwarasoficial.com/manga/nano-machine/chap-207/",
     # "https://mugiwarasoficial.com/manga/nano-machine/chap-206/",
     # "https://mugiwarasoficial.com/manga/nano-machine/chap-205/",
@@ -351,11 +351,14 @@ mypath = './'
 
 onlyfolders = [f for f in listdir(mypath) if isdir(join(mypath, f))]
 onlyfolders.sort()
+onlyfolders.remove('.git')
 print(onlyfolders)
 
-conteudo = '<h1>Nano Machine</h1>'
+conteudo = '# Nano Machine\n'
 for folder in onlyfolders:
-    conteudo += f'<p style="text-align: center;"><button name="menu" onclick="/{folder}/readme.md">{folder}</button></p>'
+    #- [teste](/chap-0001/readme.md)
+    conteudo += f'- [{folder}](/{folder}/readme.md)\n'
+    # conteudo += f'<p style="text-align: center;"><button name="menu" onclick="/{folder}/readme.md">{folder}</button></p>'
 
 
 print('./readme.md')
@@ -365,24 +368,25 @@ f.close()
 
 for i in range(len(onlyfolders)):
     chapterFolder = f'./{onlyfolders[i]}/'
-    anterior = './readme.md'
-    proximo = './readme.md'
-    menu = './readme.md'
+    anterior = '/readme.md'
+    proximo = '/readme.md'
+    menu = '/readme.md'
     if i - 1 >= 0: 
-        anterior = f'./{onlyfolders[i-1]}/readme.md'
+        anterior = f'/{onlyfolders[i-1]}/readme.md'
     if i + 1 <= len(onlyfolders)-1: 
-        proximo = f'./{onlyfolders[i+1]}/readme.md'
+        proximo = f'/{onlyfolders[i+1]}/readme.md'
 
     onlyfiles = [f for f in listdir(chapterFolder) if isfile(join(chapterFolder, f))]
     onlyfiles.sort()
+    onlyfiles.remove('readme.md')
     # print(f'{onlyfolders[i]}:{onlyfiles}')
-    navegacao = f'<p style="text-align: center;"><button name="anterior" onclick="{anterior}">Anterior</button><button name="menu" onclick="{menu}">Menu</button><button name="próximo" onclick="{proximo}">Próximo</button></p>'
-    conteudo = f'{navegacao} <p style="text-align: center;">'
+    navegacao = f'|[ANTERIOR]({anterior})|[MENU]({menu})|[PRÓXIMO]({proximo})|\n'
+    conteudo = f'# {onlyfolders[i]}\n{navegacao} |:--:|:--:|:--:|\n'
 
     for file in onlyfiles:
-        conteudo += f'<img src="{file}"> '
+        conteudo += f'||![{file}]({file})||\n'
     
-    conteudo += f'</p> {navegacao}'
+    conteudo += f'{navegacao}'
 
     print(f'{chapterFolder}readme.md')
     f = open(f'{chapterFolder}readme.md', 'w')

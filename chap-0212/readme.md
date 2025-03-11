@@ -1,1 +1,8 @@
-<p style="text-align: center;"><button name="anterior" onclick="./chap-0211/readme.md">Anterior</button><button name="menu" onclick="./readme.md">Menu</button><button name="próximo" onclick="./chap-0213/readme.md">Próximo</button></p> <p style="text-align: center;"><img src="002.jpg"> <img src="003.jpg"> <img src="004.jpg"> <img src="005.jpg"> <img src="readme.md"> </p> <p style="text-align: center;"><button name="anterior" onclick="./chap-0211/readme.md">Anterior</button><button name="menu" onclick="./readme.md">Menu</button><button name="próximo" onclick="./chap-0213/readme.md">Próximo</button></p>
+# chap-0212
+|[ANTERIOR](/chap-0211/readme.md)|[MENU](/readme.md)|[PRÓXIMO](/chap-0213/readme.md)|
+ |:--:|:--:|:--:|
+||![002.jpg](002.jpg)||
+||![003.jpg](003.jpg)||
+||![004.jpg](004.jpg)||
+||![005.jpg](005.jpg)||
+|[ANTERIOR](/chap-0211/readme.md)|[MENU](/readme.md)|[PRÓXIMO](/chap-0213/readme.md)|
