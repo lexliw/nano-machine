@@ -393,3 +393,33 @@ for i in range(len(onlyfolders)):
     f.write(conteudo)
     f.close()
 # %%
+# %%
+# valida imagens
+from os import listdir, lstat
+from os.path import isfile, isdir, join
+
+mypath = './'
+
+onlyfolders = [f for f in listdir(mypath) if isdir(join(mypath, f))]
+onlyfolders.sort()
+print(onlyfolders)
+
+for folder in onlyfolders:
+    chapterFolder = f'./{folder}/'
+    onlyfiles = [f for f in listdir(chapterFolder) if isfile(join(chapterFolder, f))]
+    onlyfiles.sort()
+    for file in onlyfiles:
+        size = lstat(f'./{folder}/{file}').st_size
+        if size == 0:
+            # onlyfiles.remove(file)
+            print(f'./{folder}/{file} size {size}')
+
+    # print(f'{folder}:{onlyfiles}')
+
+# %%
+from os import lstat
+print (lstat("./chap-0248/001__001.jpg").st_size)
+# %%
+
+print(str(int('001')))
+# %%
