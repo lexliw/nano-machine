@@ -378,7 +378,8 @@ for i in range(len(onlyfolders)):
 
     onlyfiles = [f for f in listdir(chapterFolder) if isfile(join(chapterFolder, f))]
     onlyfiles.sort()
-    onlyfiles.remove('readme.md')
+    if 'readme.md' in onlyfiles:
+        onlyfiles.remove('readme.md')
     # print(f'{onlyfolders[i]}:{onlyfiles}')
     navegacao = f'##### [ANTERIOR]({anterior})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MENU]({menu})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PRÓXIMO]({proximo})\n'
     conteudo = f'# {onlyfolders[i]}\n{navegacao}'
